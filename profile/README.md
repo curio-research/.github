@@ -1,7 +1,11 @@
+[Twitter](https://twitter.com/0xcurio) 
+
 _"A beginning is a very delicate time ..." - Dune_
 
-Curio builds next-gen crypto games and infrastructure with strong UGC, starting with our first on-chain 4x strategy game.
+We are a group of practical idealists chasing a future for players that's more creative and more free. To do this, we are building Keystone, the foundational infrastructure for our game worlds, and our first flaship social strategy game that's in active development. 
 
-Previous generation of games are closed, preventing players from contributing UGC that hook into core game logic and accessing game data. By leveraging the composability of crypto, UGC can be enforced and tied into the game meaningfully, which radically shifts the way players interact with the worlds they hold dear.
+We've assembled a world class game design and engineering team that hail from MiHiYo and more that have launched games to millions. 
+
+We seek for high-agency, self-directed thinkers to join us for the ride.
 
 [Twitter](https://twitter.com/0xcurio) - [Website](https://www.curio.gg/)
