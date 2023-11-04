@@ -1,5 +1,3 @@
-[Twitter](https://twitter.com/0xcurio) 
-
 _"A beginning is a very delicate time ..." - Dune_
 
 We are a group of practical idealists chasing a future for players that's more creative and more free. 
